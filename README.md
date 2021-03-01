@@ -34,7 +34,7 @@ To install on Chrome (as unpacked extension):
 
 * Restart the browser.
 
-* Navigate to a site that has editable input elements, for example [this one](https://www.cdc.gov/healthyweight/assessing/bmi/adult_bmi/english_bmi_calculator/bmi_calculator.html){: target="_blank"}.
+* Navigate to a site that has editable input elements, for example [this one](https://www.cdc.gov/healthyweight/assessing/bmi/adult_bmi/english_bmi_calculator/bmi_calculator.html).
 
 * R-click on an input element, e.g. **Weight**.
 
