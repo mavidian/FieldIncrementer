@@ -4,11 +4,9 @@ Field Incrementer is a very simple browser extension to demonstrate how the web 
 contents can be accessed and modified. It allows an input element of a web site to be
 incremented in case its current contents is numeric (or empty, which is assumed to be 0).
 
-This extension is inspired on https://www.youtube.com/watch?v=Olz4wo-ILwI and https://github.com/eviltester/counterstringjs
+This extension is inspired on <https://www.youtube.com/watch?v=Olz4wo-ILwI> and <https://github.com/eviltester/counterstringjs>.
 
-Sample page to test the extension's behavior: https://www.cdc.gov/healthyweight/assessing/bmi/adult_bmi/english_bmi_calculator/bmi_calculator.html
-
-
+Sample page to test the extension's behavior: <https://www.cdc.gov/healthyweight/assessing/bmi/adult_bmi/english_bmi_calculator/bmi_calculator.html>.
 
 ## Installation
 
@@ -36,15 +34,15 @@ To install on Chrome (as unpacked extension):
 
 * Restart the browser.
 
-* Navigate to a site that has editable input elements, for example https://www.cdc.gov/healthyweight/assessing/bmi/adult_bmi/english_bmi_calculator/bmi_calculator.html.
+* Navigate to a site that has editable input elements, for example [this one](https://www.cdc.gov/healthyweight/assessing/bmi/adult_bmi/english_bmi_calculator/bmi_calculator.html){:target="_blank"}.
 
-* R-click on the input element, e.g. **Weight**.
+* R-click on an input element, e.g. **Weight**.
 
 * From the context menu, select **Increment Field Contents**.
 
 * On the dialog enter **Increment by** value () and click OK.
 
-* Notice the value of the input element has increased.
+* Notice the change of the input element value.
 
 ## Contributing
 
